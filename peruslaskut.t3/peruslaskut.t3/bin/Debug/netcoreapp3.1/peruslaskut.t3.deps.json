@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "peruslaskut.t3/1.0.0": {
+        "runtime": {
+          "peruslaskut.t3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "peruslaskut.t3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

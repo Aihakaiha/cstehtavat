@@ -1,0 +1,12 @@
+C:\Users\elias.sivonen\source\repos\Aihakaiha\cstehtavat\c-f_convert.t2\c-f_convert.t2\obj\Debug\netcoreapp3.1\c-f_convert.t2.csproj.CoreCompileInputs.cache
+C:\Users\elias.sivonen\source\repos\Aihakaiha\cstehtavat\c-f_convert.t2\c-f_convert.t2\obj\Debug\netcoreapp3.1\c-f_convert.t2.AssemblyInfoInputs.cache
+C:\Users\elias.sivonen\source\repos\Aihakaiha\cstehtavat\c-f_convert.t2\c-f_convert.t2\obj\Debug\netcoreapp3.1\c-f_convert.t2.AssemblyInfo.cs
+C:\Users\elias.sivonen\source\repos\Aihakaiha\cstehtavat\c-f_convert.t2\c-f_convert.t2\bin\Debug\netcoreapp3.1\c-f_convert.t2.exe
+C:\Users\elias.sivonen\source\repos\Aihakaiha\cstehtavat\c-f_convert.t2\c-f_convert.t2\bin\Debug\netcoreapp3.1\c-f_convert.t2.deps.json
+C:\Users\elias.sivonen\source\repos\Aihakaiha\cstehtavat\c-f_convert.t2\c-f_convert.t2\bin\Debug\netcoreapp3.1\c-f_convert.t2.runtimeconfig.json
+C:\Users\elias.sivonen\source\repos\Aihakaiha\cstehtavat\c-f_convert.t2\c-f_convert.t2\bin\Debug\netcoreapp3.1\c-f_convert.t2.runtimeconfig.dev.json
+C:\Users\elias.sivonen\source\repos\Aihakaiha\cstehtavat\c-f_convert.t2\c-f_convert.t2\bin\Debug\netcoreapp3.1\c-f_convert.t2.dll
+C:\Users\elias.sivonen\source\repos\Aihakaiha\cstehtavat\c-f_convert.t2\c-f_convert.t2\bin\Debug\netcoreapp3.1\c-f_convert.t2.pdb
+C:\Users\elias.sivonen\source\repos\Aihakaiha\cstehtavat\c-f_convert.t2\c-f_convert.t2\obj\Debug\netcoreapp3.1\c-f_convert.t2.dll
+C:\Users\elias.sivonen\source\repos\Aihakaiha\cstehtavat\c-f_convert.t2\c-f_convert.t2\obj\Debug\netcoreapp3.1\c-f_convert.t2.pdb
+C:\Users\elias.sivonen\source\repos\Aihakaiha\cstehtavat\c-f_convert.t2\c-f_convert.t2\obj\Debug\netcoreapp3.1\c-f_convert.t2.genruntimeconfig.cache
